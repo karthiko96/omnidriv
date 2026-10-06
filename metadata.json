@@ -1,0 +1,6 @@
+{
+  "name": "OmniDrive - All Your Files. One Intelligent Workspace.",
+  "description": "Store, sync, search, share and manage everything from one place with OmniDrive, the AI-native workspace and infinite filesystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
